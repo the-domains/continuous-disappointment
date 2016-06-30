@@ -1,4 +1,3 @@
-layout_spectrum: 0.35984181915409863
 typography_spectrum: 0.967314210254699
 color:
   brandStrength: 0.5254728470463306
@@ -11,6 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.35984181915409863
+author:
+  name: Örjan
 name: emotional machine productions
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/db97280e-9335-4edc-b18a-7be9e127d17e.jpg
